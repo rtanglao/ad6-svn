@@ -1,0 +1,55 @@
+8
+
+dir
+4971
+https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/apachesolr/contrib/apachesolr_nodeaccess
+https://svn.acquia.com/drupal
+
+
+
+2009-05-15T21:01:31.405510Z
+4965
+buildbot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08d20552-8ba5-4116-8c9e-e96c1c1f3480
+
+tests
+dir
+
+apachesolr_nodeaccess.info
+file
+
+
+
+
+2009-05-26T00:26:39.000000Z
+734f264e43d77d059cd5bd5d1a5e9d93
+2009-05-15T21:01:31.405510Z
+4965
+buildbot
+
+apachesolr_nodeaccess.module
+file
+
+
+
+
+2009-05-26T00:26:39.000000Z
+0d221e07494ed48d450f66dc4f64b2be
+2009-05-15T21:01:31.405510Z
+4965
+buildbot
+

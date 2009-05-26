@@ -1,0 +1,70 @@
+8
+
+dir
+4971
+https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/optionwidgets
+https://svn.acquia.com/drupal
+
+
+
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08d20552-8ba5-4116-8c9e-e96c1c1f3480
+
+translations
+dir
+
+optionwidgets.module
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+cf2815976f2cd64ce780b912ba973fc8
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+optionwidgets.install
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+8fd80304cd18bfa0b8e4c457ea5b531d
+2009-03-27T13:49:27.090492Z
+4875
+buildbot
+
+help
+dir
+
+optionwidgets.info
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+d633c8320203eb7145c56b5730b6b392
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+

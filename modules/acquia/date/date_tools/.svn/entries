@@ -1,0 +1,79 @@
+8
+
+dir
+4971
+https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_tools
+https://svn.acquia.com/drupal
+
+
+
+2009-04-16T23:08:01.621631Z
+4917
+buildbot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08d20552-8ba5-4116-8c9e-e96c1c1f3480
+
+translations
+dir
+
+date_tools.module
+file
+
+
+
+
+2009-05-26T00:26:51.000000Z
+789aa16a81cf271df1dbd6f1585fe8f1
+2009-04-16T23:08:01.621631Z
+4917
+buildbot
+
+date_tools.info.acquiainfo
+file
+
+
+
+
+2009-05-26T00:26:51.000000Z
+5ce857db1528ec61a4a3cc540befa8b5
+2009-04-16T23:08:01.621631Z
+4917
+buildbot
+
+date_field.php
+file
+
+
+
+
+2009-05-26T00:26:51.000000Z
+125dbff0493cfca1959ca645dad7f2a7
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+date_tools.info
+file
+
+
+
+
+2009-05-26T00:26:51.000000Z
+947edd146ccbd32877ee5d7d41920ca9
+2009-04-16T23:08:01.621631Z
+4917
+buildbot
+

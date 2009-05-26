@@ -1,0 +1,70 @@
+8
+
+dir
+4971
+https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/number
+https://svn.acquia.com/drupal
+
+
+
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+08d20552-8ba5-4116-8c9e-e96c1c1f3480
+
+translations
+dir
+
+number.info
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+43f89d1d2c2d42b8af6a8e2d6ce92459
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+help
+dir
+
+number.module
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+cba7de528eaa3acd892642bf83860126
+2009-03-27T16:42:00.079189Z
+4877
+buildbot
+
+number.install
+file
+
+
+
+
+2009-05-26T00:26:47.000000Z
+1fd7ea36c832d348a89aaaae53bd1868
+2009-03-27T13:49:27.090492Z
+4875
+buildbot
+
