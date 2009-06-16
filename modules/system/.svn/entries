@@ -1,7 +1,7 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/system
 https://svn.acquia.com/drupal
 
@@ -98,6 +98,18 @@ file
 4875
 buildbot
 
+system-menus-rtl.css
+file
+
+
+
+
+2009-05-26T00:26:38.000000Z
+40e34477bfae11e9261edc3a31e28952
+2009-03-27T13:49:27.090492Z
+4875
+buildbot
+
 system.js
 file
 
@@ -110,14 +122,14 @@ file
 4875
 buildbot
 
-system-menus-rtl.css
+system-menus.css
 file
 
 
 
 
 2009-05-26T00:26:38.000000Z
-40e34477bfae11e9261edc3a31e28952
+860adcdb4b0905ea4fed85b7d37effb7
 2009-03-27T13:49:27.090492Z
 4875
 buildbot
@@ -132,18 +144,6 @@ file
 6138c1bd23b38f296485368747e1253b
 2009-04-30T23:24:28.696746Z
 4946
-buildbot
-
-system-menus.css
-file
-
-
-
-
-2009-05-26T00:26:38.000000Z
-860adcdb4b0905ea4fed85b7d37effb7
-2009-03-27T13:49:27.090492Z
-4875
 buildbot
 
 system.module

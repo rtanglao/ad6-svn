@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_timezone/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -38,6 +38,18 @@ file
 4917
 buildbot
 
+date_timezone.fr.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+a1672631f52c134e1b569213a8fb9caa
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
 date_timezone.de.po
 file
 
@@ -48,5 +60,17 @@ file
 ebad304341d218d097dfc5cc9bbebd9f
 2009-04-16T23:08:01.621631Z
 4917
+buildbot
+
+date_timezone.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+459ea62f7b44219a802c948603176a8b
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_locale
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -41,27 +41,15 @@ buildbot
 translations
 dir
 
-date_locale.info.acquiainfo
-file
-
-
-
-
-2009-05-26T00:26:51.000000Z
-5ce857db1528ec61a4a3cc540befa8b5
-2009-04-16T23:08:01.621631Z
-4917
-buildbot
-
 date_locale.info
 file
 
 
 
 
-2009-05-26T00:26:51.000000Z
-b9a6af3419d6f8b952b32cd8e56e4c73
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+df4dd5bbd3aaa9ea679d77b691fff597
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

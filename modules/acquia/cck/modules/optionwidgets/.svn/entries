@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/optionwidgets
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -62,9 +62,9 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-d633c8320203eb7145c56b5730b6b392
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+3cf931fd9882f4d9005c4c84136c6c9d
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

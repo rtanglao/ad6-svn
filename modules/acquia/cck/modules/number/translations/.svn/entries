@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/number/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -60,6 +60,30 @@ file
 bd374fcf5632288144cbb16867455a7d
 2009-03-27T13:49:27.090492Z
 4875
+buildbot
+
+modules-number.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+fd92f83a91f902d495085cd181ebaffb
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
+modules-number.nl.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+2f1a2e9d19a936c1aa31da72515dccd2
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 modules-number.hu.po

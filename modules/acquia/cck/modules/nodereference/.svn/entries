@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/nodereference
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -27,6 +27,9 @@ svn:special svn:externals svn:needs-lock
 08d20552-8ba5-4116-8c9e-e96c1c1f3480
 
 translations
+dir
+
+panels
 dir
 
 nodereference.rules.inc
@@ -50,10 +53,10 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-c0a804c5f70eef251a45a9d42833f28d
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+6a159fcbd5857bfbea62b6ba5e6d5390
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 nodereference.install
@@ -74,9 +77,9 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-56c720be1fd4be6f9a8b7cebf73ae549
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+0c7814dab1a38100139ac0394ec396f1
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

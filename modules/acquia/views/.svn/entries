@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/views
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -26,23 +26,23 @@ svn:special svn:externals svn:needs-lock
 
 08d20552-8ba5-4116-8c9e-e96c1c1f3480
 
+translations
+dir
+
+plugins
+dir
+
 views.module
 file
 
 
 
 
-2009-05-26T00:26:46.000000Z
-62e672fb75195c4250026b4723feb1d4
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:37.000000Z
+4014474eef64b845f6457f9ed5c69fbd
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
-
-plugins
-dir
-
-translations
-dir
 
 views_ui.info
 file
@@ -50,10 +50,10 @@ file
 
 
 
-2009-05-26T00:26:46.000000Z
-5d9efc0dcc3c99128eda220fbb058c88
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:37.000000Z
+a520e6144d889c67aba07ecf2b79f407
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 views.info
@@ -62,19 +62,19 @@ file
 
 
 
-2009-05-26T00:26:46.000000Z
-e8ed47dfbdc4dc5b4704f09837abdbf1
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:37.000000Z
+f55f987c6d5e638cf681dae84dc7f43c
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
-css
+help
 dir
 
 docs
 dir
 
-help
+css
 dir
 
 views_export
@@ -95,22 +95,19 @@ file
 4875
 buildbot
 
-theme
-dir
-
 views.install
 file
 
 
 
 
-2009-05-26T00:26:46.000000Z
-da2a59219507d4fd6036b7948ada7566
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:37.000000Z
+82166aef2481a5d7356ed4d866247419
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
-images
+theme
 dir
 
 CHANGELOG.txt
@@ -119,11 +116,14 @@ file
 
 
 
-2009-05-26T00:26:46.000000Z
-9ae856d09d4c113f280e276a2b0b751e
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:37.000000Z
+9c84e7717908bb9b24787a9d25369e75
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
+
+images
+dir
 
 includes
 dir

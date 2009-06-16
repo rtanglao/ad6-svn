@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_php4
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -32,22 +32,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-c83c359ba017c4cd537a4ad2e1af1594
-2009-03-27T16:42:00.079189Z
-4877
-buildbot
-
-date_php4.info.acquiainfo
-file
-
-
-
-
-2009-05-26T00:26:52.000000Z
-5ce857db1528ec61a4a3cc540befa8b5
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+07d18ba11eae47751d343e730704b884
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_php4_tz_abbreviations_list.inc
@@ -83,10 +71,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-d9e5b20b5698cfb8b538ba9b03580d27
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+b3baf12c065fd585812c4f21e280d895
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_php4_calc.inc

@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 77
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/admin_menu/translations
+/drupal/!svn/ver/4979/branches/1.x-6.x/modules/acquia/admin_menu/translations
 END
 da.po
 K 25
@@ -27,6 +27,12 @@ svn:wc:ra_dav:version-url
 V 83
 /drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/admin_menu/translations/es.po
 END
+fr.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/drupal/!svn/ver/4979/branches/1.x-6.x/modules/acquia/admin_menu/translations/fr.po
+END
 de.po
 K 25
 svn:wc:ra_dav:version-url
@@ -43,19 +49,19 @@ nl.po
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/admin_menu/translations/nl.po
+/drupal/!svn/ver/4979/branches/1.x-6.x/modules/acquia/admin_menu/translations/nl.po
 END
 ja.po
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/admin_menu/translations/ja.po
+/drupal/!svn/ver/4979/branches/1.x-6.x/modules/acquia/admin_menu/translations/ja.po
 END
 hu.po
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/admin_menu/translations/hu.po
+/drupal/!svn/ver/4979/branches/1.x-6.x/modules/acquia/admin_menu/translations/hu.po
 END
 admin_menu.pot
 K 25

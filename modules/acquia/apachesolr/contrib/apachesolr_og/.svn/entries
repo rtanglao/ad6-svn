@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/apachesolr/contrib/apachesolr_og
 https://svn.acquia.com/drupal
 
 
 
-2009-05-15T21:01:31.405510Z
-4965
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2009-05-26T00:26:39.000000Z
-db9ae46db970e110ccb329f328852ee8
-2009-05-15T21:01:31.405510Z
-4965
+2009-06-16T21:06:36.000000Z
+00f364870271e4e6b6dc498b43a8aee0
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 apachesolr_og.module

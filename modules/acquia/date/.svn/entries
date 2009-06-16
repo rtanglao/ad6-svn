@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -26,6 +26,9 @@ svn:special svn:externals svn:needs-lock
 
 08d20552-8ba5-4116-8c9e-e96c1c1f3480
 
+translations
+dir
+
 date_api.js
 file
 
@@ -37,9 +40,6 @@ file
 2009-03-27T16:42:00.079189Z
 4877
 buildbot
-
-translations
-dir
 
 INSTALL.txt
 file
@@ -65,16 +65,13 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-784de964f570712e783d84350619f0af
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+6ea8018791bd1b9ac3cc75653782359c
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_locale
-dir
-
-date_tools
 dir
 
 date_api_sql.inc
@@ -83,13 +80,13 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-c006ea23bd97896f852a688775583df5
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+bbf6aff4f3dcf1195c543391779930e4
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
-date_popup
+date_tools
 dir
 
 date_api.info
@@ -98,16 +95,19 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-b396e18780c9f1824fbaee9f806a6866
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+5254598131eee2eced5f8628390d5657
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
-theme
+date_popup
 dir
 
 tests
+dir
+
+theme
 dir
 
 date-rtl.css
@@ -167,10 +167,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-37985604b207a01dbe3746e08593701b
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+864994b757cc1e594450c3aacfa226f5
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 includes
@@ -182,10 +182,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-018083a256f2dd1ff11930640ae53b47
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+95ddd03aef6312cca2ddf6cd5e5d74fa
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_copy
@@ -200,10 +200,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-8c5e2961e0c071d557ba109e3746f4f6
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+a07bf3f65ede9da5e19654bbc20e48da
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_api.install
@@ -235,16 +235,4 @@ dir
 
 date
 dir
-
-date_api.info.acquiainfo
-file
-
-
-
-
-2009-05-26T00:26:52.000000Z
-5ce857db1528ec61a4a3cc540befa8b5
-2009-04-16T23:08:01.621631Z
-4917
-buildbot
 

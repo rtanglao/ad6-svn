@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_popup/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -50,6 +50,18 @@ file
 4877
 buildbot
 
+date_popup.fr.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+de97c4fa05f23bf0903bd44da14a58db
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
 date_popup.de.po
 file
 
@@ -60,5 +72,17 @@ file
 338340a0998e1c820e75ca0ba13fb497
 2009-04-16T23:08:01.621631Z
 4917
+buildbot
+
+date_popup.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+4238e3e2ae0582d78e4290269c91469e
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

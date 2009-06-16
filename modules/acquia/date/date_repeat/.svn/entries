@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_repeat
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -35,10 +35,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-1c8db034c0ef9c7c15dc2ed38a686075
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+f905202d8db2dff597e30f6b1092c1b0
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_repeat.install
@@ -53,28 +53,16 @@ f180db6c8d8e9da848d4ed39a7a6323f
 4875
 buildbot
 
-date_repeat.info.acquiainfo
-file
-
-
-
-
-2009-05-26T00:26:52.000000Z
-5ce857db1528ec61a4a3cc540befa8b5
-2009-04-16T23:08:01.621631Z
-4917
-buildbot
-
 date_repeat.info
 file
 
 
 
 
-2009-05-26T00:26:52.000000Z
-cf06cef41d04fe94bba4e1c73c9f6b6e
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+b9b57daf2fdbcafcaad6dfe383173287
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_repeat_calc.inc
@@ -83,10 +71,10 @@ file
 
 
 
-2009-05-26T00:26:52.000000Z
-bc42bba72e0ef27fb0ade198b2eb0596
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+bc627479d7cbaf7de1c035153d950f86
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_repeat_form.inc

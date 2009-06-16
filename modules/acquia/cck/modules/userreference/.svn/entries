@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/userreference
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -35,10 +35,10 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-a34f98b15db1a9d05b6f6515e641a7b2
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+3f0023a3b0505c4030ff1eb693877ec1
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 userreference.install
@@ -53,6 +53,9 @@ ea933523f8d5481d7d27061672ac494a
 4875
 buildbot
 
+panels
+dir
+
 includes
 dir
 
@@ -62,10 +65,10 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-05026bd239786f13edac118ffc7aa169
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+a404d80be0b8fe92252e0b6a368cefe1
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 help

@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/nodereference/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -25,6 +25,18 @@ svn:special svn:externals svn:needs-lock
 
 
 08d20552-8ba5-4116-8c9e-e96c1c1f3480
+
+modules-nodereference.nl.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+af89f478150b16507fbaa1dd2de67c42
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
 
 modules-nodereference.hu.po
 file
@@ -72,5 +84,17 @@ file
 de8b263126f823abf8246ccabcbac301
 2009-03-27T16:42:00.079189Z
 4877
+buildbot
+
+modules-nodereference.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+29a992d7d2dfa26c6275eaa7d335f937
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

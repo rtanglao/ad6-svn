@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/theme
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/theme
 END
 content-field.tpl.php
 K 25
@@ -31,7 +31,7 @@ theme.inc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/cck/theme/theme.inc
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/theme/theme.inc
 END
 content-admin-display-overview-form.tpl.php
 K 25

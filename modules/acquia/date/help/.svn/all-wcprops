@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/help
-END
-form-elements.html
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/form-elements.html
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/help
 END
 date.html
 K 25
@@ -15,35 +9,41 @@ svn:wc:ra_dav:version-url
 V 73
 /drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/date/help/date.html
 END
+form-elements.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/form-elements.html
+END
+embedding.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/help/embedding.html
+END
 date-create.html
 K 25
 svn:wc:ra_dav:version-url
 V 80
 /drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/date-create.html
 END
-embedding.html
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/date/help/embedding.html
-END
 date-types.html
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/date/help/date-types.html
-END
-ical-import.html
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/date/help/ical-import.html
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/help/date-types.html
 END
 date-display.html
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/date-display.html
+END
+ical-import.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/date/help/ical-import.html
 END
 date-api.html
 K 25
@@ -61,13 +61,13 @@ date-php4.html
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/date-php4.html
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/help/date-php4.html
 END
 date-timezones.html
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/help/date-timezones.html
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/help/date-timezones.html
 END
 date-api-functions.html
 K 25

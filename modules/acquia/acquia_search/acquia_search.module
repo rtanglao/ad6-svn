@@ -1,12 +1,12 @@
 <?php
-// $Id: acquia_search.module 4965 2009-05-15 21:01:31Z buildbot $
+// $Id: acquia_search.module 4999 2009-06-11 18:07:09Z buildbot $
 
 /**
  * @file
  *   Integration between Acquia Drupal and Acquia's hosted solr search service.
  */
 
-define('ACQUIA_SEARCH_VERSION', "6.x-1.4963");
+define('ACQUIA_SEARCH_VERSION', "6.x-1.4994");
 
 /**
  * Implementation of hook_enable().
@@ -38,7 +38,7 @@ function _acquia_search_set_variables() {
 function acquia_search_disable() {
   acquia_search_delete_variables();
   // Disable all the associated search modules.
-  module_disable(array('apachesolr', 'apachesolr_search', 'apachesolr_mlt', 'apachesolr_nodeaccess', 'apachesolr_image', 'apachesolr_og'));
+  module_disable(array('apachesolr', 'apachesolr_search', 'apachesolr_nodeaccess', 'apachesolr_image', 'apachesolr_og', 'apachesolr_og', 'apachesolr_attachments'));
 }
 
 /**
@@ -86,20 +86,18 @@ function acquia_search_form_alter(&$form, &$form_state, $form_id) {
   switch ($form_id) {
     case 'search_block_form':
     case 'search_theme_form':
-      foreach ($form['#submit'] as $key => $name) {
-        if ($name == 'search_box_form_submit') {
-          unset($form['#submit'][$key]);
-        }
-      }
-      $form['#submit'][] = 'acquia_search_search_box_form_submit';
-      break;
     case 'search_form':
+      if (!isset($form['#submit'])) {
+        $form['#submit'] = array();
+      }
       foreach ($form['#submit'] as $key => $name) {
-        if ($name == 'search_form_submit') {
+        if ($name == 'search_form_submit' || $name == 'search_box_form_submit') {
           unset($form['#submit'][$key]);
+          $form_submit = $name;
         }
       }
-      $form['#submit'][] = 'acquia_search_search_form_submit';
+      // Make this first, as the search module's would have been.
+      array_unshift($form['#submit'], 'acquia_search_'. $form_submit);
       break;
     case 'apachesolr_settings':
       // Don't alter the form if there is no subscription.
@@ -156,7 +154,12 @@ function acquia_search_search_form_submit($form, &$form_state) {
  */
 function acquia_search_search_box_form_submit($form, &$form_state) {
   $form_id = $form['form_id']['#value'];
-  $form_state['redirect'] = 'search/apachesolr_search/'. trim($form_state['values'][$form_id]);
+  $keys = $form_state['values'][$form_id];
+  // Handle Apache clean URL quirks.
+  if (variable_get('clean_url', '0')) {
+    $keys = str_replace('+', '%2B', $keys);
+  }
+  $form_state['redirect'] = 'search/apachesolr_search/'. trim($keys);
 }
 
 /**

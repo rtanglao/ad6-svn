@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_tools
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -35,22 +35,10 @@ file
 
 
 
-2009-05-26T00:26:51.000000Z
-789aa16a81cf271df1dbd6f1585fe8f1
-2009-04-16T23:08:01.621631Z
-4917
-buildbot
-
-date_tools.info.acquiainfo
-file
-
-
-
-
-2009-05-26T00:26:51.000000Z
-5ce857db1528ec61a4a3cc540befa8b5
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+eb80f5380b98ee32ef1d242a570dcaed
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 date_field.php
@@ -71,9 +59,9 @@ file
 
 
 
-2009-05-26T00:26:51.000000Z
-947edd146ccbd32877ee5d7d41920ca9
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-16T21:06:38.000000Z
+5206872139a24f13b40af7c1719cbe49
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

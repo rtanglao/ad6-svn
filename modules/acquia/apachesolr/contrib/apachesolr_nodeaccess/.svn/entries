@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/apachesolr/contrib/apachesolr_nodeaccess
 https://svn.acquia.com/drupal
 
 
 
-2009-05-15T21:01:31.405510Z
-4965
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -35,10 +35,10 @@ file
 
 
 
-2009-05-26T00:26:39.000000Z
-734f264e43d77d059cd5bd5d1a5e9d93
-2009-05-15T21:01:31.405510Z
-4965
+2009-06-16T21:06:36.000000Z
+0a7178c1e2dac12fdf6e9f101889be7e
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 apachesolr_nodeaccess.module
@@ -47,9 +47,9 @@ file
 
 
 
-2009-05-26T00:26:39.000000Z
-0d221e07494ed48d450f66dc4f64b2be
-2009-05-15T21:01:31.405510Z
-4965
+2009-06-16T21:06:36.000000Z
+b9dfe63aa3be5ffb3561953ed5267bf4
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

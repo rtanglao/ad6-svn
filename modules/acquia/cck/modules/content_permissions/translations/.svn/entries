@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/content_permissions/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -36,6 +36,30 @@ file
 51e5978a467cf2550c8c0dd4dd429437
 2009-03-27T13:49:27.090492Z
 4875
+buildbot
+
+modules-content_permissions.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+7ef6a2e64dd40dc55d7955dc032cd330
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
+modules-content_permissions.nl.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+fbc4262b408b2ff72c538a36ac3a25ee
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 modules-content_permissions.hu.po

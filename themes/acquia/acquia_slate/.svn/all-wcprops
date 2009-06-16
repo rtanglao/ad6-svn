@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/drupal/!svn/ver/4946/branches/1.x-6.x/themes/acquia/acquia_slate
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate
 END
 script.js
 K 25
@@ -31,31 +31,7 @@ acquia_slate.info
 K 25
 svn:wc:ra_dav:version-url
 V 83
-/drupal/!svn/ver/4946/branches/1.x-6.x/themes/acquia/acquia_slate/acquia_slate.info
-END
-theme-settings.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/drupal/!svn/ver/4946/branches/1.x-6.x/themes/acquia/acquia_slate/theme-settings.php
-END
-page-front.tpl.php
-K 25
-svn:wc:ra_dav:version-url
-V 84
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/page-front.tpl.php
-END
-comment.tpl.php
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/comment.tpl.php
-END
-ie6-fixes.css
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/ie6-fixes.css
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/acquia_slate.info
 END
 iepngfix.htc
 K 25
@@ -63,17 +39,41 @@ svn:wc:ra_dav:version-url
 V 78
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/iepngfix.htc
 END
-style.css
+ie6-fixes.css
 K 25
 svn:wc:ra_dav:version-url
-V 75
-/drupal/!svn/ver/4946/branches/1.x-6.x/themes/acquia/acquia_slate/style.css
+V 79
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/ie6-fixes.css
+END
+comment.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/comment.tpl.php
+END
+page-front.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/page-front.tpl.php
+END
+theme-settings.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/theme-settings.php
 END
 ie7-fixes.css
 K 25
 svn:wc:ra_dav:version-url
 V 79
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/ie7-fixes.css
+END
+style.css
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/style.css
 END
 search-theme-form.tpl.php
 K 25
@@ -103,7 +103,7 @@ template.php
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/drupal/!svn/ver/4946/branches/1.x-6.x/themes/acquia/acquia_slate/template.php
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/template.php
 END
 jquery.overlabel.js
 K 25

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images
-END
-sidebar-button-right.png
-K 25
-svn:wc:ra_dav:version-url
-V 97
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/sidebar-button-right.png
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/images
 END
 search-arrow.png
 K 25
@@ -15,17 +9,23 @@ svn:wc:ra_dav:version-url
 V 89
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/search-arrow.png
 END
-content-top-bg.png
+sidebar-button-right.png
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/content-top-bg.png
+V 97
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/sidebar-button-right.png
 END
 logo.png
 K 25
 svn:wc:ra_dav:version-url
 V 81
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/logo.png
+END
+content-top-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/content-top-bg.png
 END
 preface-sidebar-bg.png
 K 25
@@ -39,11 +39,11 @@ svn:wc:ra_dav:version-url
 V 91
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/pri-hover-left.png
 END
-white-arrow.png
+blank.gif
 K 25
 svn:wc:ra_dav:version-url
-V 88
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/white-arrow.png
+V 82
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/blank.gif
 END
 arrow-white.png
 K 25
@@ -51,11 +51,11 @@ svn:wc:ra_dav:version-url
 V 88
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/arrow-white.png
 END
-blank.gif
+white-arrow.png
 K 25
 svn:wc:ra_dav:version-url
-V 82
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/blank.gif
+V 88
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/white-arrow.png
 END
 rounded-corners.png
 K 25
@@ -63,11 +63,11 @@ svn:wc:ra_dav:version-url
 V 92
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/rounded-corners.png
 END
-button.png
+rounded-blocks.png
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/button.png
+V 91
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/rounded-blocks.png
 END
 menu-expanded.gif
 K 25
@@ -75,11 +75,11 @@ svn:wc:ra_dav:version-url
 V 90
 /drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/menu-expanded.gif
 END
-rounded-blocks.png
+button.png
 K 25
 svn:wc:ra_dav:version-url
-V 91
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/rounded-blocks.png
+V 83
+/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/button.png
 END
 submit-button.png
 K 25
@@ -97,7 +97,7 @@ block-gradient.png
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/drupal/!svn/ver/4875/branches/1.x-6.x/themes/acquia/acquia_slate/images/block-gradient.png
+/drupal/!svn/ver/4979/branches/1.x-6.x/themes/acquia/acquia_slate/images/block-gradient.png
 END
 pri-hover-right.png
 K 25

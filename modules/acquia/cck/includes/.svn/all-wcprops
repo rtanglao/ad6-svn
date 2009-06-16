@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/includes
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/includes
 END
 content.devel.inc
 K 25
@@ -15,17 +15,11 @@ svn:wc:ra_dav:version-url
 V 84
 /drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/includes/content.token.inc
 END
-content.panels.inc
-K 25
-svn:wc:ra_dav:version-url
-V 85
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/cck/includes/content.panels.inc
-END
 content.admin.inc
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/includes/content.admin.inc
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/includes/content.admin.inc
 END
 content.diff.inc
 K 25
@@ -37,13 +31,13 @@ content.node_form.inc
 K 25
 svn:wc:ra_dav:version-url
 V 88
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/includes/content.node_form.inc
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/includes/content.node_form.inc
 END
 content.rules.inc
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/cck/includes/content.rules.inc
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/includes/content.rules.inc
 END
 content.crud.inc
 K 25

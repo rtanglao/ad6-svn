@@ -1,13 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/date_popup
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/date_popup
 END
 date_popup.module
 K 25
 svn:wc:ra_dav:version-url
 V 87
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.module
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.module
 END
 date_popup.install
 K 25
@@ -15,17 +15,11 @@ svn:wc:ra_dav:version-url
 V 88
 /drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.install
 END
-date_popup.info.acquiainfo
-K 25
-svn:wc:ra_dav:version-url
-V 96
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.info.acquiainfo
-END
 date_popup.info
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.info
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/date_popup/date_popup.info
 END
 date_popup.js
 K 25

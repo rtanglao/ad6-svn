@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/date/date_php4/translations
 https://svn.acquia.com/drupal
 
 
 
-2009-04-16T23:08:01.621631Z
-4917
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -38,6 +38,30 @@ cd392d05ac6d647ebbe35698a2609b88
 4917
 buildbot
 
+date_php4.es.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+cee3b548e78408095ec0c69ef5f48bb9
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
+date_php4.fr.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+022cce895dd95e26dd4d912077271f3e
+2009-06-11T18:07:09.713535Z
+4999
+buildbot
+
 date_php4.de.po
 file
 
@@ -48,5 +72,17 @@ file
 257f2661c493a6f8b027adf7e6c50261
 2009-04-16T23:08:01.621631Z
 4917
+buildbot
+
+date_php4.sv.po
+file
+
+
+
+
+2009-06-16T21:06:38.000000Z
+9e325652beb33b730536a0ba31f54e32
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

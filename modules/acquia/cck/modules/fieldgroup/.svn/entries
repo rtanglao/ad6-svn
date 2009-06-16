@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/cck/modules/fieldgroup
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -29,16 +29,19 @@ svn:special svn:externals svn:needs-lock
 translations
 dir
 
+panels
+dir
+
 fieldgroup.module
 file
 
 
 
 
-2009-05-26T00:26:47.000000Z
-2e1611df0b2dcd21e0f053e1b68c080f
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+37dc15c76e2c8fbe514a63536695428c
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 fieldgroup.install
@@ -95,10 +98,10 @@ file
 
 
 
-2009-05-26T00:26:47.000000Z
-c65e4cf90a069e2065420af0c8af1be7
-2009-03-27T16:42:00.079189Z
-4877
+2009-06-16T21:06:38.000000Z
+d64fbe23cc18c741318981f146500a50
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 fieldgroup-simple.tpl.php

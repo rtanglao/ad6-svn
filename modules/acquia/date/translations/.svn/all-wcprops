@@ -1,19 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations
 END
-general.de.po
+theme.fr.po
 K 25
 svn:wc:ra_dav:version-url
-V 85
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/general.de.po
-END
-fr.po
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/date/translations/fr.po
+V 83
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/theme.fr.po
 END
 theme.nl.po
 K 25
@@ -21,41 +15,41 @@ svn:wc:ra_dav:version-url
 V 83
 /drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/theme.nl.po
 END
+date_api.es.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/date_api.es.po
+END
+includes.es.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/includes.es.po
+END
 theme.it.po
 K 25
 svn:wc:ra_dav:version-url
 V 83
 /drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/theme.it.po
 END
-date_api.nl.po
+general.fr.po
 K 25
 svn:wc:ra_dav:version-url
-V 86
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/date_api.nl.po
+V 85
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/general.fr.po
 END
-includes.nl.po
+theme.pt-br.po
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/includes.nl.po
-END
-date_api.it.po
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/date_api.it.po
-END
-includes.it.po
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/includes.it.po
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/theme.pt-br.po
 END
 general.nl.po
 K 25
 svn:wc:ra_dav:version-url
 V 85
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/general.nl.po
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/general.nl.po
 END
 theme.pot
 K 25
@@ -75,6 +69,90 @@ svn:wc:ra_dav:version-url
 V 83
 /drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/theme.de.po
 END
+general.pot
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/general.pot
+END
+general.sv.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/general.sv.po
+END
+general.de.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/general.de.po
+END
+theme.es.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/theme.es.po
+END
+theme.se.po
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/theme.se.po
+END
+date_api.fr.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/date_api.fr.po
+END
+includes.fr.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/includes.fr.po
+END
+date_api.nl.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/date_api.nl.po
+END
+includes.nl.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/includes.nl.po
+END
+date_api.it.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/date_api.it.po
+END
+includes.it.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/includes.it.po
+END
+general.es.po
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/general.es.po
+END
+date_api.pt-br.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/date_api.pt-br.po
+END
+includes.pt-br.po
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/includes.pt-br.po
+END
 date_api.pot
 K 25
 svn:wc:ra_dav:version-url
@@ -87,11 +165,17 @@ svn:wc:ra_dav:version-url
 V 84
 /drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/includes.pot
 END
-date_api.de.po
+date_api.sv.po
 K 25
 svn:wc:ra_dav:version-url
 V 86
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/date_api.de.po
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/date_api.sv.po
+END
+includes.sv.po
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/includes.sv.po
 END
 includes.de.po
 K 25
@@ -99,9 +183,15 @@ svn:wc:ra_dav:version-url
 V 86
 /drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/includes.de.po
 END
-general.pot
+date_api.de.po
 K 25
 svn:wc:ra_dav:version-url
-V 83
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/general.pot
+V 86
+/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/date/translations/date_api.de.po
+END
+general.pt-br.po
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/date/translations/general.pt-br.po
 END

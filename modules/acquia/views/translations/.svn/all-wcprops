@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/views/translations
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/views/translations
+END
+uk-ua.po
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/views/translations/uk-ua.po
 END
 eo.po
 K 25
@@ -25,13 +31,25 @@ sv.po
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/drupal/!svn/ver/4917/branches/1.x-6.x/modules/acquia/views/translations/sv.po
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/views/translations/sv.po
+END
+pl.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/views/translations/pl.po
 END
 it.po
 K 25
 svn:wc:ra_dav:version-url
 V 78
 /drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/views/translations/it.po
+END
+uk.po
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/views/translations/uk.po
 END
 views.pot
 K 25

@@ -1,14 +1,14 @@
 8
 
 dir
-4971
+5004
 https://svn.acquia.com/drupal/branches/1.x-6.x/modules/acquia/mollom/tests
 https://svn.acquia.com/drupal
 
 
 
-2009-03-27T13:49:27.090492Z
-4875
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 
 
@@ -32,9 +32,9 @@ file
 
 
 
-2009-05-26T00:26:46.000000Z
-0396cf2b5be3d359a03287aa5e08d48a
-2009-03-27T13:49:27.090492Z
-4875
+2009-06-16T21:06:37.000000Z
+03388274b2c1a8a1ef634c8fa8aa0c12
+2009-06-11T18:07:09.713535Z
+4999
 buildbot
 

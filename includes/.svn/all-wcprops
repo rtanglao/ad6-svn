@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/drupal/!svn/ver/4965/branches/1.x-6.x/includes
+/drupal/!svn/ver/4999/branches/1.x-6.x/includes
 END
 cache-install.inc
 K 25
@@ -117,17 +117,23 @@ svn:wc:ra_dav:version-url
 V 60
 /drupal/!svn/ver/4875/branches/1.x-6.x/includes/image.gd.inc
 END
-database.mysqli.inc
+image.imagemagick.inc
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/drupal/!svn/ver/4875/branches/1.x-6.x/includes/database.mysqli.inc
+V 69
+/drupal/!svn/ver/4999/branches/1.x-6.x/includes/image.imagemagick.inc
 END
 batch.inc
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /drupal/!svn/ver/4875/branches/1.x-6.x/includes/batch.inc
+END
+database.mysqli.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/drupal/!svn/ver/4875/branches/1.x-6.x/includes/database.mysqli.inc
 END
 image.inc
 K 25
@@ -165,17 +171,17 @@ svn:wc:ra_dav:version-url
 V 57
 /drupal/!svn/ver/4875/branches/1.x-6.x/includes/pager.inc
 END
-locale.inc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/drupal/!svn/ver/4946/branches/1.x-6.x/includes/locale.inc
-END
 tablesort.inc
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /drupal/!svn/ver/4875/branches/1.x-6.x/includes/tablesort.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/drupal/!svn/ver/4946/branches/1.x-6.x/includes/locale.inc
 END
 cache.inc
 K 25

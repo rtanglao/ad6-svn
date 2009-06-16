@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 91
-/drupal/!svn/ver/4877/branches/1.x-6.x/modules/acquia/cck/modules/content_copy/translations
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/modules/content_copy/translations
+END
+modules-content_copy.nl.po
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/modules/content_copy/translations/modules-content_copy.nl.po
 END
 modules-content_copy.hu.po
 K 25
@@ -26,4 +32,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 118
 /drupal/!svn/ver/4875/branches/1.x-6.x/modules/acquia/cck/modules/content_copy/translations/modules-content_copy.de.po
+END
+modules-content_copy.sv.po
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/drupal/!svn/ver/4999/branches/1.x-6.x/modules/acquia/cck/modules/content_copy/translations/modules-content_copy.sv.po
 END
